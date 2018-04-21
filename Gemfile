@@ -12,6 +12,7 @@ end
 group :production do
   gem 'pg'
 end
+
 gem 'carrierwave'
 gem 'net-ssh'
 # Use Puma as the app server
